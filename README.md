@@ -8,5 +8,6 @@ HW3 : poster board<br>
 HW4,HW5 : 2 games : <br>
 &emsp; 1.find mutiples<br>
 &emsp; 2.The irritating maze<br>
+MidQ2 : Pokemon game<br>
 HW6 : Aquarium<br>
 HW7 : contact directory<br>
