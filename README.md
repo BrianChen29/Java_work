@@ -11,4 +11,4 @@ HW4,HW5 : 2 games : <br>
 MidQ2 : Pokemon game<br>
 MidQ3 : maze<br>
 HW6 : Aquarium<br>
-HW7 : contact directory<br>
+HW7, FinalQ1 : contacts directory<br>
