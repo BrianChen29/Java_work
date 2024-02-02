@@ -12,3 +12,4 @@ MidQ2 : Pokemon game<br>
 MidQ3 : maze<br>
 HW6, FinalQ2 : Aquarium<br>
 HW7, FinalQ1 : contacts directory<br>
+FinalQ3 : invoice management system
